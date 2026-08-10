@@ -1,17 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
-
   <channel>
-
     <title>Humanities Paper Radar</title>
-
-    <link>https://github.com/</link>
-
-    <description>
-      Humanities papers discovered through external discussion.
-    </description>
-
+    <link>https://news.ycombinator.com/</link>
+    <description>Humanities papers discovered through external discussion. The score is an experimental attention signal.</description>
+    <lastBuildDate>Mon, 10 Aug 2026 15:35:10 +0000</lastBuildDate>
+    <item>
+      <title>🔥 83 — OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]</title>
+      <link>https://philarchive.org/archive/NIEWTCv17</link>
+      <guid isPermaLink="true">https://philarchive.org/archive/NIEWTCv17</guid>
+      <pubDate>Sun, 02 Aug 2026 03:41:38 +0000</pubDate>
+      <category>History</category>
+      <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Attention signal:&lt;/b&gt; 83&lt;/p&gt;&lt;p&gt;&lt;b&gt;External mentions:&lt;/b&gt; 1 · &lt;b&gt;Comments:&lt;/b&gt; 42 · &lt;b&gt;Points:&lt;/b&gt; 33&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussion:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49140869"&gt;discussion&lt;/a&gt; (33 points, 42 comments)&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>🔥 51 — Connes' Rigidity Theorem: Disproof of Open AI's Counterexample and Proof</title>
+      <link>https://philarchive.org/rec/NIEWTC</link>
+      <guid isPermaLink="true">https://philarchive.org/rec/NIEWTC</guid>
+      <pubDate>Sun, 02 Aug 2026 23:56:59 +0000</pubDate>
+      <category>History</category>
+      <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Attention signal:&lt;/b&gt; 51&lt;/p&gt;&lt;p&gt;&lt;b&gt;External mentions:&lt;/b&gt; 1 · &lt;b&gt;Comments:&lt;/b&gt; 4 · &lt;b&gt;Points:&lt;/b&gt; 14&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussion:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49149628"&gt;discussion&lt;/a&gt; (14 points, 4 comments)&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>🔥 29 — People Can't Identify AI Poetry, but Enjoy It Less When Told It's by an AI</title>
+      <link>https://academic.oup.com/dsh/advance-article/doi/10.1093/llc/fqag067/8694305?login=false</link>
+      <guid isPermaLink="true">https://academic.oup.com/dsh/advance-article/doi/10.1093/llc/fqag067/8694305?login=false</guid>
+      <pubDate>Mon, 13 Jul 2026 01:45:42 +0000</pubDate>
+      <category>Literary Studies</category>
+      <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; Literary Studies&lt;/p&gt;&lt;p&gt;&lt;b&gt;Attention signal:&lt;/b&gt; 29&lt;/p&gt;&lt;p&gt;&lt;b&gt;External mentions:&lt;/b&gt; 1 · &lt;b&gt;Comments:&lt;/b&gt; 2 · &lt;b&gt;Points:&lt;/b&gt; 1&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussion:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=48886873"&gt;discussion&lt;/a&gt; (1 points, 2 comments)&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>🔥 21 — A causal history can exist locally everywhere and globally nowhere</title>
+      <link>https://zenodo.org/records/21606970</link>
+      <guid isPermaLink="true">https://zenodo.org/records/21606970</guid>
+      <pubDate>Sun, 02 Aug 2026 22:55:45 +0000</pubDate>
+      <category>History</category>
+      <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Attention signal:&lt;/b&gt; 21&lt;/p&gt;&lt;p&gt;&lt;b&gt;External mentions:&lt;/b&gt; 1 · &lt;b&gt;Comments:&lt;/b&gt; 0 · &lt;b&gt;Points:&lt;/b&gt; 3&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussion:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49149264"&gt;discussion&lt;/a&gt; (3 points, 0 comments)&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>🔥 19 — Cosmological constant from Standard Model spin</title>
+      <link>https://zenodo.org/records/21515348</link>
+      <guid isPermaLink="true">https://zenodo.org/records/21515348</guid>
+      <pubDate>Fri, 24 Jul 2026 00:18:28 +0000</pubDate>
+      <category>Philosophy</category>
+      <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; Philosophy&lt;/p&gt;&lt;p&gt;&lt;b&gt;Attention signal:&lt;/b&gt; 19&lt;/p&gt;&lt;p&gt;&lt;b&gt;External mentions:&lt;/b&gt; 1 · &lt;b&gt;Comments:&lt;/b&gt; 0 · &lt;b&gt;Points:&lt;/b&gt; 2&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussion:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49029816"&gt;discussion&lt;/a&gt; (2 points, 0 comments)&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>🔥 16 — What Is Left for Us? Against Degradation of Research by AI</title>
+      <link>https://philarchive.org/rec/NOVWIL</link>
+      <guid isPermaLink="true">https://philarchive.org/rec/NOVWIL</guid>
+      <pubDate>Mon, 03 Aug 2026 10:46:41 +0000</pubDate>
+      <category>History</category>
+      <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Attention signal:&lt;/b&gt; 16&lt;/p&gt;&lt;p&gt;&lt;b&gt;External mentions:&lt;/b&gt; 1 · &lt;b&gt;Comments:&lt;/b&gt; 0 · &lt;b&gt;Points:&lt;/b&gt; 1&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussion:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49153970"&gt;discussion&lt;/a&gt; (1 points, 0 comments)&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
   </channel>
-
 </rss>
