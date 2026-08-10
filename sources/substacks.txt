@@ -1,1 +1,63 @@
+# Humanities Paper Radar — Substack sources
+#
+# Format:
+# URL | STREAM | SIGNAL
+#
+# SIGNAL:
+# A = high-signal scholarly/intellectual source
+# B = useful secondary/discovery source
 
+# ============================================================
+# PHILOLOGY / LINGUISTICS
+# ============================================================
+
+https://linguistically.substack.com/feed | Philology/Linguistics | A
+https://howwelearnlanguages.substack.com/feed | Philology/Linguistics | A
+
+# ============================================================
+# LITERARY STUDIES / LITERARY THEORY
+# ============================================================
+
+https://therepublicofletters.substack.com/feed | Literary Theory | A
+https://demystifyingliterature.substack.com/feed | Literary Theory | A
+https://convergingdialogues.substack.com/feed | Literary Studies | A
+https://lillianreviewofbooks.substack.com/feed | Literary Studies | B
+https://roncharles.substack.com/feed | Literary Studies | B
+https://thehazelnut.substack.com/feed | Literary Theory | B
+https://cosymoments.substack.com/feed | Literary Theory | B
+https://michaelrburch.substack.com/feed | Literary Theory | B
+https://christopherbasgier.substack.com/feed | Literary Studies | B
+
+# ============================================================
+# PHILOSOPHY
+# ============================================================
+
+https://thephilosopher1923.substack.com/feed | Philosophy | A
+https://philosophersbeard.substack.com/feed | Philosophy | A
+https://nathanmueller.substack.com/feed | Philosophy | A
+https://hegemon.substack.com/feed | Philosophy | A
+https://maartenboudry.substack.com/feed | Philosophy | A
+https://celineleboeuf.substack.com/feed | Philosophy | A
+https://slavoj.substack.com/feed | Philosophy | A
+https://donaldrobertson.substack.com/feed | Philosophy | B
+https://journeyofideas.substack.com/feed | Philosophy | B
+
+# ============================================================
+# HISTORY
+# ============================================================
+
+https://danjones.substack.com/feed | History | A
+https://historycommonplaces.substack.com/feed | History | A
+https://historyneverended.substack.com/feed | History | A
+https://annettelaing.substack.com/feed | History | B
+https://loadesofhistory.substack.com/feed | History | B
+https://classicalwisdom.substack.com/feed | History | B
+
+# ============================================================
+# INTELLECTUAL HISTORY / ADJACENT
+# ============================================================
+
+https://metacritique.substack.com/feed | Intellectual History | A
+https://bottomsupfront.substack.com/feed | Intellectual History | B
+https://standrewsiih.substack.com/feed | Intellectual History | A
+https://mickeymaos.substack.com/feed | Intellectual History | B
