@@ -4,7 +4,7 @@
     <title>Humanities Paper Radar</title>
     <link>https://github.com/</link>
     <description>Humanities research discovered through Hacker News, Reddit and curated Substack publications.</description>
-    <lastBuildDate>Sun, 16 Aug 2026 07:47:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 13:47:15 +0000</lastBuildDate>
     <item>
       <title>🔥 178 — Silicon Valley misreads science fiction and undermines democracy</title>
       <link>https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy</link>
@@ -22,12 +22,20 @@
       <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 157&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 1 mention(s), 171 points, 124 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49227652"&gt;discussion/source&lt;/a&gt; (171 points, 124 comments)&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>🔥 152 — Engineers will do anything to avoid learning from history</title>
+      <title>🔥 154 — Tracking down a Zsh history data loss bug</title>
+      <link>https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug</link>
+      <guid isPermaLink="true">https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug</guid>
+      <pubDate>Sat, 15 Aug 2026 21:39:09 +0000</pubDate>
+      <category>History</category>
+      <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 154&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 4 mention(s), 109 points, 37 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49314579"&gt;discussion/source&lt;/a&gt; (96 points, 37 comments)&lt;/li&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49250625"&gt;discussion/source&lt;/a&gt; (2 points, 0 comments)&lt;/li&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49235043"&gt;discussion/source&lt;/a&gt; (3 points, 0 comments)&lt;/li&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49229488"&gt;discussion/source&lt;/a&gt; (8 points, 0 comments)&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>🔥 153 — Engineers will do anything to avoid learning from history</title>
       <link>https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history</link>
       <guid isPermaLink="true">https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history</guid>
       <pubDate>Sat, 15 Aug 2026 22:08:22 +0000</pubDate>
       <category>History</category>
-      <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 152&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 1 mention(s), 153 points, 102 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49314744"&gt;discussion/source&lt;/a&gt; (153 points, 102 comments)&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 153&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 1 mention(s), 163 points, 106 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49314744"&gt;discussion/source&lt;/a&gt; (163 points, 106 comments)&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>🔥 147 — I built a 500k-domain search engine for makers in a weekend for $10</title>
@@ -36,14 +44,6 @@
       <pubDate>Thu, 13 Aug 2026 13:36:19 +0000</pubDate>
       <category>History</category>
       <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 147&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 1 mention(s), 141 points, 82 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49285718"&gt;discussion/source&lt;/a&gt; (141 points, 82 comments)&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🔥 141 — Tracking down a Zsh history data loss bug</title>
-      <link>https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug</link>
-      <guid isPermaLink="true">https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug</guid>
-      <pubDate>Sat, 15 Aug 2026 21:39:09 +0000</pubDate>
-      <category>History</category>
-      <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 141&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 4 mention(s), 79 points, 22 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49314579"&gt;discussion/source&lt;/a&gt; (66 points, 22 comments)&lt;/li&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49250625"&gt;discussion/source&lt;/a&gt; (2 points, 0 comments)&lt;/li&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49235043"&gt;discussion/source&lt;/a&gt; (3 points, 0 comments)&lt;/li&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49229488"&gt;discussion/source&lt;/a&gt; (8 points, 0 comments)&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>🔥 128 — ECHR confirms ethical veganism is a protected philosophical belief</title>
@@ -70,12 +70,12 @@
       <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 118&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 1 mention(s), 33 points, 42 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49140869"&gt;discussion/source&lt;/a&gt; (33 points, 42 comments)&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>🔥 110 — The Library of Ashurbanipal (2025)</title>
+      <title>🔥 111 — The Library of Ashurbanipal (2025)</title>
       <link>https://historytoday.com/archive/feature/library-ashurbanipal</link>
       <guid isPermaLink="true">https://historytoday.com/archive/feature/library-ashurbanipal</guid>
       <pubDate>Mon, 10 Aug 2026 19:49:35 +0000</pubDate>
       <category>History</category>
-      <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 110&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 1 mention(s), 72 points, 16 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49248769"&gt;discussion/source&lt;/a&gt; (72 points, 16 comments)&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 111&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 1 mention(s), 73 points, 16 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49248769"&gt;discussion/source&lt;/a&gt; (73 points, 16 comments)&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>🔥 100 — The punched card tabulator</title>
@@ -110,20 +110,20 @@
       <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 91&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 1 mention(s), 23 points, 11 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49239179"&gt;discussion/source&lt;/a&gt; (23 points, 11 comments)&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
+      <title>🔥 88 — It's How You Ask: Gender-Associated Linguistic Bias in LLMs</title>
+      <link>https://arxiv.org/abs/2608.13328</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.13328</guid>
+      <pubDate>Sun, 16 Aug 2026 02:07:06 +0000</pubDate>
+      <category>Philology / Linguistics</category>
+      <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; Philology / Linguistics&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 88&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 1 mention(s), 20 points, 10 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49316242"&gt;discussion/source&lt;/a&gt; (20 points, 10 comments)&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
       <title>🔥 87 — Finite State Machines in Forth (1994)</title>
       <link>https://forth.org/literature/noble.html</link>
       <guid isPermaLink="true">https://forth.org/literature/noble.html</guid>
       <pubDate>Sat, 08 Aug 2026 17:38:15 +0000</pubDate>
       <category>Literary Studies</category>
       <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; Literary Studies&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 87&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 1 mention(s), 86 points, 3 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49223964"&gt;discussion/source&lt;/a&gt; (86 points, 3 comments)&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🔥 87 — It's How You Ask: Gender-Associated Linguistic Bias in LLMs</title>
-      <link>https://arxiv.org/abs/2608.13328</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.13328</guid>
-      <pubDate>Sun, 16 Aug 2026 02:07:06 +0000</pubDate>
-      <category>Philology / Linguistics</category>
-      <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; Philology / Linguistics&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 87&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 1 mention(s), 19 points, 10 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49316242"&gt;discussion/source&lt;/a&gt; (19 points, 10 comments)&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>🔥 84 — 'The Cheese and the Worms' by Carlo Ginzburg Review</title>
@@ -148,22 +148,6 @@
       <pubDate>Thu, 13 Aug 2026 23:05:38 +0000</pubDate>
       <category>History</category>
       <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 75&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 1 mention(s), 49 points, 2 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49292843"&gt;discussion/source&lt;/a&gt; (49 points, 2 comments)&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🔥 73 — GitHub Actions suffers second-longest major outage in its history</title>
-      <link>https://githubstatus.com/uptime/br0l2tvcx85d</link>
-      <guid isPermaLink="true">https://githubstatus.com/uptime/br0l2tvcx85d</guid>
-      <pubDate>Thu, 06 Aug 2026 21:59:01 +0000</pubDate>
-      <category>History</category>
-      <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 73&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 1 mention(s), 43 points, 2 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49203184"&gt;discussion/source&lt;/a&gt; (43 points, 2 comments)&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🔥 70 — Oral History of John Chowning (Computer History) [video]</title>
-      <link>https://youtube.com/watch</link>
-      <guid isPermaLink="true">https://youtube.com/watch</guid>
-      <pubDate>Thu, 13 Aug 2026 23:12:56 +0000</pubDate>
-      <category>History</category>
-      <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 70&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 3 mention(s), 8 points, 2 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49292903"&gt;discussion/source&lt;/a&gt; (4 points, 0 comments)&lt;/li&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49243730"&gt;discussion/source&lt;/a&gt; (2 points, 1 comments)&lt;/li&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49200160"&gt;discussion/source&lt;/a&gt; (2 points, 1 comments)&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>🔥 69 — Connes' Rigidity Theorem: Disproof of Open AI's Counterexample and Proof</title>
@@ -196,6 +180,14 @@
       <pubDate>Sat, 15 Aug 2026 19:23:28 +0000</pubDate>
       <category>History</category>
       <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 52&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 1 mention(s), 4 points, 3 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49313451"&gt;discussion/source&lt;/a&gt; (4 points, 3 comments)&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>🔥 52 — Oral History of John Chowning (Computer History) [video]</title>
+      <link>https://youtube.com/watch</link>
+      <guid isPermaLink="true">https://youtube.com/watch</guid>
+      <pubDate>Thu, 13 Aug 2026 23:12:56 +0000</pubDate>
+      <category>History</category>
+      <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 52&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 2 mention(s), 6 points, 1 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49292903"&gt;discussion/source&lt;/a&gt; (4 points, 0 comments)&lt;/li&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49243730"&gt;discussion/source&lt;/a&gt; (2 points, 1 comments)&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>🔥 50 — I built a free AI curriculum from philosophy to LLMs</title>
@@ -233,7 +225,7 @@
       <title>🔥 48 — toxictoy approved a post in UFOB</title>
       <link>https://academia.edu/167025997/Prehistoric_artifacts_of_Mesoamerica_anthropological_evidence_of_ET_paleocontact</link>
       <guid isPermaLink="true">https://academia.edu/167025997/Prehistoric_artifacts_of_Mesoamerica_anthropological_evidence_of_ET_paleocontact</guid>
-      <pubDate>Sun, 16 Aug 2026 07:47:16 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 13:47:04 +0000</pubDate>
       <category>Philosophy</category>
       <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; Philosophy&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 48&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 0 mention(s), 0 points, 0 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 4 independent mention(s) (engagement count unavailable from the public discovery endpoint)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reddit — &lt;a href="https://www.reddit.com/r/UFOB_Disclosures/comments/1vpi1go/toxictoy_approved_a_post_in_ufob/"&gt;discussion/source&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Reddit — &lt;a href="https://www.reddit.com/r/aliens/comments/1vor6yb/photos_of_the_studied_aztlan_collection_artifacts/"&gt;discussion/source&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Reddit — &lt;a href="https://www.reddit.com/r/UFOB/comments/1vol1bn/new_photos_of_the_controversial_alien_artifacts/"&gt;discussion/source&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Reddit — &lt;a href="https://www.reddit.com/r/aliens/comments/1vocgdd/new_photos_of_the_controversial_alien_artifacts/"&gt;discussion/source&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
@@ -262,20 +254,20 @@
       <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 43&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 1 mention(s), 18 points, 0 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49262913"&gt;discussion/source&lt;/a&gt; (18 points, 0 comments)&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
+      <title>🔥 42 — Splitting a Git Commit</title>
+      <link>https://blog.gnoack.org/post/git-history-split</link>
+      <guid isPermaLink="true">https://blog.gnoack.org/post/git-history-split</guid>
+      <pubDate>Sat, 15 Aug 2026 13:56:31 +0000</pubDate>
+      <category>History</category>
+      <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 42&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 1 mention(s), 5 points, 1 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49310602"&gt;discussion/source&lt;/a&gt; (5 points, 1 comments)&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
       <title>🔥 40 — Plotlines: Every place and journey in every literature classic, on one map</title>
       <link>https://peter-guillam123.github.io/plotlines/index.html</link>
       <guid isPermaLink="true">https://peter-guillam123.github.io/plotlines/index.html</guid>
       <pubDate>Sun, 02 Aug 2026 20:18:13 +0000</pubDate>
       <category>Literary Studies</category>
       <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; Literary Studies&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 40&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 1 mention(s), 4 points, 1 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49147902"&gt;discussion/source&lt;/a&gt; (4 points, 1 comments)&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🔥 40 — Splitting a Git Commit</title>
-      <link>https://blog.gnoack.org/post/git-history-split</link>
-      <guid isPermaLink="true">https://blog.gnoack.org/post/git-history-split</guid>
-      <pubDate>Sat, 15 Aug 2026 13:56:31 +0000</pubDate>
-      <category>History</category>
-      <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 40&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 1 mention(s), 4 points, 1 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49310602"&gt;discussion/source&lt;/a&gt; (4 points, 1 comments)&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>🔥 37 — Much of Philosophy Today Is Self-Indulgent</title>
@@ -421,6 +413,14 @@
       <pubDate>Fri, 07 Aug 2026 16:20:26 +0000</pubDate>
       <category>Philology / Linguistics</category>
       <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; Philology / Linguistics&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 25&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 1 mention(s), 3 points, 0 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49212771"&gt;discussion/source&lt;/a&gt; (3 points, 0 comments)&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>🔥 25 — Cogister: Hitster for Philosophy</title>
+      <link>https://cogitster.vibetrunk.com</link>
+      <guid isPermaLink="true">https://cogitster.vibetrunk.com</guid>
+      <pubDate>Sun, 16 Aug 2026 07:53:18 +0000</pubDate>
+      <category>Philosophy</category>
+      <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; Philosophy&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 25&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 1 mention(s), 3 points, 0 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49317841"&gt;discussion/source&lt;/a&gt; (3 points, 0 comments)&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>🔥 25 — A History of the Sentence "Buffalo buffalo buffalo buffalo buffalo."</title>
@@ -599,14 +599,6 @@
       <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 21&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 1 mention(s), 2 points, 0 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49233071"&gt;discussion/source&lt;/a&gt; (2 points, 0 comments)&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>🔥 21 — Show HN: Gitdebt.com, open source repo stats and star history for GitHub repos</title>
-      <link>https://gitdebt.com</link>
-      <guid isPermaLink="true">https://gitdebt.com</guid>
-      <pubDate>Thu, 06 Aug 2026 19:20:42 +0000</pubDate>
-      <category>History</category>
-      <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 21&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 1 mention(s), 2 points, 0 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 0 independent mention(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hacker News — &lt;a href="https://news.ycombinator.com/item?id=49201088"&gt;discussion/source&lt;/a&gt; (2 points, 0 comments)&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
       <title>🔥 16 — What Is Left for Us? Against Degradation of Research by AI</title>
       <link>https://philarchive.org/rec/NOVWIL</link>
       <guid isPermaLink="true">https://philarchive.org/rec/NOVWIL</guid>
@@ -674,7 +666,7 @@
       <title>🔥 12 — About Children's Literature</title>
       <link>https://reddit.com/r/Childrensliterature</link>
       <guid isPermaLink="true">https://reddit.com/r/Childrensliterature</guid>
-      <pubDate>Sun, 16 Aug 2026 07:47:16 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 13:47:04 +0000</pubDate>
       <category>Literary Studies</category>
       <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; Literary Studies&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 0 mention(s), 0 points, 0 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 1 independent mention(s) (engagement count unavailable from the public discovery endpoint)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reddit — &lt;a href="https://www.reddit.com/r/Childrensliterature/"&gt;discussion/source&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
@@ -682,7 +674,7 @@
       <title>🔥 12 — corpus linguistics for language teaching and learning</title>
       <link>https://reddit.com/r/corpuslinguistics</link>
       <guid isPermaLink="true">https://reddit.com/r/corpuslinguistics</guid>
-      <pubDate>Sun, 16 Aug 2026 07:47:16 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 13:47:04 +0000</pubDate>
       <category>Philology / Linguistics</category>
       <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; Philology / Linguistics&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 0 mention(s), 0 points, 0 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 1 independent mention(s) (engagement count unavailable from the public discovery endpoint)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reddit — &lt;a href="https://www.reddit.com/r/corpuslinguistics/"&gt;discussion/source&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
@@ -690,7 +682,7 @@
       <title>🔥 12 — The Case Against Islam : A Series of Arguments &amp; Resources</title>
       <link>https://reddit.com/r/CritiqueIslam/comments/1r19d2n/natural_explanations_first_a_methodological_case</link>
       <guid isPermaLink="true">https://reddit.com/r/CritiqueIslam/comments/1r19d2n/natural_explanations_first_a_methodological_case</guid>
-      <pubDate>Sun, 16 Aug 2026 07:47:16 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 13:47:04 +0000</pubDate>
       <category>Philosophy</category>
       <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; Philosophy&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 0 mention(s), 0 points, 0 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 1 independent mention(s) (engagement count unavailable from the public discovery endpoint)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reddit — &lt;a href="https://www.reddit.com/r/exmuslim/comments/1vpaiv4/the_case_against_islam_a_series_of_arguments/"&gt;discussion/source&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
@@ -698,7 +690,7 @@
       <title>🔥 12 — The Two Hundred and Seven Upāgamas: Secondary Scriptures of the Śaiva Siddhānta Canon</title>
       <link>https://archive.sacred-texts.com/tantra/sas/sas03.htm</link>
       <guid isPermaLink="true">https://archive.sacred-texts.com/tantra/sas/sas03.htm</guid>
-      <pubDate>Sun, 16 Aug 2026 07:47:16 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 13:47:04 +0000</pubDate>
       <category>History</category>
       <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 0 mention(s), 0 points, 0 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 1 independent mention(s) (engagement count unavailable from the public discovery endpoint)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reddit — &lt;a href="https://www.reddit.com/r/IndicKnowledgeSystems/comments/1vp1eod/the_two_hundred_and_seven_upāgamas_secondary/"&gt;discussion/source&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
@@ -706,7 +698,7 @@
       <title>🔥 12 — Petra's Temple of Dushara may have been the primary kaʿba of pre-Islamic Arabia</title>
       <link>https://archive.org/details/bookofidolsbeing0000ibna</link>
       <guid isPermaLink="true">https://archive.org/details/bookofidolsbeing0000ibna</guid>
-      <pubDate>Sun, 16 Aug 2026 07:47:16 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 13:47:04 +0000</pubDate>
       <category>History</category>
       <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; History&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 0 mention(s), 0 points, 0 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 1 independent mention(s) (engagement count unavailable from the public discovery endpoint)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reddit — &lt;a href="https://www.reddit.com/r/AcademicQuran/comments/1vp1dl8/petras_temple_of_dushara_may_have_been_the/"&gt;discussion/source&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
@@ -714,7 +706,7 @@
       <title>🔥 12 — Words for 'One' 'Two' and 'Three' in the highest order ancestor of every extinct or extant recorded language. Part One: Eurasia</title>
       <link>https://reddit.com/r/LinguisticMaps/comments/1voytsc/words_for_one_two_and_three_in_the_highest_order</link>
       <guid isPermaLink="true">https://reddit.com/r/LinguisticMaps/comments/1voytsc/words_for_one_two_and_three_in_the_highest_order</guid>
-      <pubDate>Sun, 16 Aug 2026 07:47:16 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 13:47:04 +0000</pubDate>
       <category>Philology / Linguistics</category>
       <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; Philology / Linguistics&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 0 mention(s), 0 points, 0 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 1 independent mention(s) (engagement count unavailable from the public discovery endpoint)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reddit — &lt;a href="https://www.reddit.com/r/LinguisticMaps/comments/1voytsc/words_for_one_two_and_three_in_the_highest_order/"&gt;discussion/source&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
@@ -722,7 +714,7 @@
       <title>🔥 12 — A person’s conception of God is a direct reflection of their philosophical strength.</title>
       <link>https://academia.edu/127438883/Applied_Mysticism_Studies_of_Meditation_and_Psychedelics_in_Secular_Contexts</link>
       <guid isPermaLink="true">https://academia.edu/127438883/Applied_Mysticism_Studies_of_Meditation_and_Psychedelics_in_Secular_Contexts</guid>
-      <pubDate>Sun, 16 Aug 2026 07:47:16 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 13:47:04 +0000</pubDate>
       <category>Philosophy</category>
       <description>&lt;p&gt;&lt;b&gt;Fields:&lt;/b&gt; Philosophy&lt;/p&gt;&lt;p&gt;&lt;b&gt;Radar score:&lt;/b&gt; 12&lt;/p&gt;&lt;p&gt;&lt;b&gt;Hacker News:&lt;/b&gt; 0 mention(s), 0 points, 0 comments&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reddit:&lt;/b&gt; 1 independent mention(s) (engagement count unavailable from the public discovery endpoint)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Substack:&lt;/b&gt; 0 monitored publication(s)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Discussions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reddit — &lt;a href="https://www.reddit.com/r/Perennial_philosophy/comments/1vobdtg/a_persons_conception_of_god_is_a_direct/"&gt;discussion/source&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
